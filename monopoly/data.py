@@ -65,5 +65,3 @@ tiles_data = [
 
 ]
 
-print(len(tiles_data))
-print(tiles_data[2])

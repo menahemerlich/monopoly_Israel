@@ -1,8 +1,7 @@
 
 class JailTile:
-    def visit_jail(self, location):
-        if location["name"] == "Jail":
-            print("You are visiting the jail.")
+    def visit_jail(self):
+        print("You are visiting the jail.")
 
 
 
