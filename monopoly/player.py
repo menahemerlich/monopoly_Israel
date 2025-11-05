@@ -6,6 +6,9 @@ class Player:
         self.money = money
         self.property = property
 
+    def pay(self):
+        pass
+
 
 
 
